@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=bismuth01)
+
 [![My Stats](https://github-readme-stats.vercel.app/api?username=bismuth01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismuth01&layout=compact)
