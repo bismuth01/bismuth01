@@ -47,10 +47,10 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40"/> 
   </a>
   <a href="https://github.com/ros-visualization/rviz" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rviz_logo.svg/512px-Rviz_logo.svg" alt="Rviz2" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="Rviz2" width="40" height="40"/> 
   </a>
   <a href="http://gazebosim.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Gazebo_logo.png" alt="Gazebo" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="Gazebo" width="40" height="40"/> 
   </a>
 </p>
 
