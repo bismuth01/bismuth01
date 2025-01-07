@@ -9,7 +9,7 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 ## 💼 Known Domains
 - Software Developer
 - Smart Contract Developer
-- Software and Simulation in Robotics
+- Robotics Software and Simulation (ROS2, Rviz2, Gazebo)
 
 # 🏆 Achievements : -
 - 🥇 Qualified Proof of Concept Round: Gujarat RoboFest 4.0 (Mars Rover)
@@ -44,10 +44,10 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
   </a>
   <a href="https://docs.ros.org/en/foxy/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="50"/> 
   </a>
   <a href="https://github.com/ros-visualization/rviz" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="Rviz2" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="Rviz2" width="60" height="40"/> 
   </a>
   <a href="http://gazebosim.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="Gazebo" width="40" height="40"/> 
@@ -65,9 +65,11 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
   - Made using the *discord.py, Pillow for image manipulation and MoviePy for Video manipulation*. **Can refresh modules and instantly add changes without the need to restart**
   - **Ability to retrieve profile pictures of users and add filters and can also convert them to video with background music**. Can also be used for moderation and contains simple mini-games
 
+<br></br>
+
 [![My Stats](https://github-readme-stats.vercel.app/api?username=bismuth01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br></br>
 
 ### You added another view !!!
 ![](https://komarev.com/ghpvc/?username=bismuth01)
