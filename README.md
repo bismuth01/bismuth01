@@ -1,5 +1,28 @@
 # Siddhartha Swarnkar
 👨‍💻 Software Enthusiast | 🤖 Robotics Innovator | 🔒 Smart Contract Developer
+<p align="left">
+  <!-- Skills -->
+  <img src="https://img.shields.io/badge/Programming-Languages-blue?style=for-the-badge&logo=code&logoColor=white" alt="Programming Languages">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/ROS2-FCC624?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
+  <img src="https://img.shields.io/badge/Gazebo-FF5733?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  
+  <!-- Achievements -->
+  <img src="https://img.shields.io/badge/Proof%20of%20Concept-Gujarat%20RoboFest-blue?style=for-the-badge" alt="Gujarat RoboFest">
+  <img src="https://img.shields.io/badge/PicoCTF-1850-orange?style=for-the-badge" alt="PicoCTF">
+  
+  <!-- Activity -->
+  <img src="https://img.shields.io/github/stars/bismuth01?style=for-the-badge" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/bismuth01?style=for-the-badge" alt="GitHub Followers">
+</p>
+
 
 ![O8AvbJtC3ZIr2ib_Hacker-Desk-4K_2_110637 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/8d496fff-aeb1-403b-b4ad-fdaee5e0517d)
 
