@@ -28,8 +28,8 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2020/08/rust.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://soliditylang.org/" target="_blank"> <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" alt="c" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2020/08/rust.svg" alt="c" width="40" height="40" style="background-color=white"/> </a>
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="c" width="40" height="40" style="background-color:white"/> </a>
 </p>
 
 You added another view !!!
