@@ -23,8 +23,6 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
   - 🛠 Built smart contracts on Solana, Move and Cosmos Ecosystem.
   - ⚡Built a working Account Abstraction Protocol (ERC-4337) on Cosmos Ecosystem
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=bismuth01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # 📚 What I know ?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismuth01&layout=compact)
 
@@ -40,6 +38,22 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
   <a href="https://soliditylang.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSat-Ff24AuXFewhxCd0Q-76pk5NvuMeifahg&s" alt="c" width="40" height="50" style="background-color:white;"/> </a>
 </p>
 
+## 🧰 Frameworks & Tools
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.ros.org/en/foxy/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/ros-visualization/rviz" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rviz_logo.svg/512px-Rviz_logo.svg" alt="Rviz2" width="40" height="40"/> 
+  </a>
+  <a href="http://gazebosim.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Gazebo_logo.png" alt="Gazebo" width="40" height="40"/> 
+  </a>
+</p>
+
 ## 🔨 Projects
 - [All backend smart contracts](https://github.com/projectman14/mantra-submission/tree/main/smart-contract) for [TokenLend](https://github.com/projectman14/mantra-submission) , a Collaterialized Debt Position (CDP) Protocol platform for **stable coin loans on RWA collateral**.
   - Multiple contracts working as actors on the blockchain and **communicating with each other** for smooth transactions
@@ -51,9 +65,11 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
   - Made using the *discord.py, Pillow for image manipulation and MoviePy for Video manipulation*. **Can refresh modules and instantly add changes without the need to restart**
   - **Ability to retrieve profile pictures of users and add filters and can also convert them to video with background music**. Can also be used for moderation and contains simple mini-games
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=bismuth01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-You added another view !!!
+
+### You added another view !!!
 ![](https://komarev.com/ghpvc/?username=bismuth01)
 
 ### 📩 Let's collaborate !! Reach out to me through these socials :)
