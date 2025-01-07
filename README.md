@@ -29,7 +29,7 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=600&name=image8-2.jpg" alt="c" width="40" height="40"/> </a>
-<a href="https://soliditylang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/solidity/solidity-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 You added another view !!!
