@@ -41,7 +41,7 @@ You added another view !!!
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/640px-X_logo.jpg"> 
       <source media="(prefers-color-scheme: light)" srcset="https://logosandtypes.com/wp-content/uploads/2024/01/x.svg"> 
-      <img alt="Link to my X profile" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="40" height="40" style="margin:0px 5px"> 
+      <img alt="Link to my X profile" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="40" height="40" style="margin:10px 0px"> 
     </picture> 
   </a>           
   <a href="https://www.linkedin.com/in/siddhartha-swarnkar-704625280/" target="blank"> 
