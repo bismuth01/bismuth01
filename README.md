@@ -41,7 +41,7 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 </p>
 
 ## 🔨 Projects
-- [All backend smart contracts](https://github.com/projectman14/mantra-submission/tree/main/smart-contract) for ![TokenLend](https://github.com/projectman14/mantra-submission) , a Collaterialized Debt Position (CDP) Protocol platform for **stable coin loans on RWA collateral**.
+- [All backend smart contracts](https://github.com/projectman14/mantra-submission/tree/main/smart-contract) for [TokenLend](https://github.com/projectman14/mantra-submission) , a Collaterialized Debt Position (CDP) Protocol platform for **stable coin loans on RWA collateral**.
   - Multiple contracts working as actors on the blockchain and **communicating with each other** for smooth transactions
   - *Paymaster extension autopays loans in set time and amount **without needing user interaction***
 - [Simple Cross-platform Client Server Socket Program](https://github.com/bismuth01/crossplatform-simple-client-server-socket-program) which *compiles for Linux and Windows* and works accordingly
@@ -50,6 +50,8 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 - [Multipurpose discord bot](https://github.com/bismuth01/Disher-discord-bot) with **image and video manipulation commands**
   - Made using the *discord.py, Pillow for image manipulation and MoviePy for Video manipulation*. **Can refresh modules and instantly add changes without the need to restart**
   - **Ability to retrieve profile pictures of users and add filters and can also convert them to video with background music**. Can also be used for moderation and contains simple mini-games
+
+
 
 You added another view !!!
 ![](https://komarev.com/ghpvc/?username=bismuth01)
