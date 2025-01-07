@@ -1,7 +1,5 @@
 # Siddhartha Swarnkar
 👨‍💻 Software Enthusiast | 🤖 Robotics Innovator | 🔒 Smart Contract Developer
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-blue)  
-![PicoCTF Rank](https://img.shields.io/badge/PicoCTF-1850-orange)
 
 ![O8AvbJtC3ZIr2ib_Hacker-Desk-4K_2_110637 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/8d496fff-aeb1-403b-b4ad-fdaee5e0517d)
 
