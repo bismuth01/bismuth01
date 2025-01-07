@@ -37,15 +37,7 @@ You added another view !!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/Siddhartha37648" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/640px-X_logo.jpg">
-      <source media="(prefers-color-scheme: light)" srcset="https://logosandtypes.com/wp-content/uploads/2024/01/x.svg">
-      <img alt="Link to my X profile" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="40" height="40">
-    </picture>
-  </a>      <a href="https://www.linkedin.com/in/siddhartha-swarnkar-704625280/" target="blank">
-    <img alt="Link to my LinkedIn profile" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
-  </a>
+  <a href="https://x.com/Siddhartha37648" target="blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/640px-X_logo.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://logosandtypes.com/wp-content/uploads/2024/01/x.svg"> <img alt="Link to my X profile" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="40" height="40"> </picture> </a>           <a href="https://www.linkedin.com/in/siddhartha-swarnkar-704625280/" target="blank"> <img alt="Link to my LinkedIn profile" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"> </a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
