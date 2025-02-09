@@ -35,7 +35,7 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 - Robotics Software and Simulation (ROS2, Rviz2, Gazebo)
 
 # 🏆 Achievements : -
-- 🥇 Qualified Proof of Concept Round: Gujarat RoboFest 4.0 (Mars Rover)
+- 🥉 Third place in Gujarat RoboFest 4.0 (Mars Rover)
 - 🥈 2nd Place: MANTRA's Hacker's Hideout Hackathon
 - 🏅 Top 7: MANTRA RWA Hackathon, Jaipur
 - 🏅 Top 100: Great AppSec Hackathon
