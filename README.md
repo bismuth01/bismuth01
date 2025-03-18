@@ -35,11 +35,12 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
 - Robotics Software and Simulation (ROS2, Rviz2, Gazebo)
 
 # 🏆 Achievements : -
+- 🥈 898 solo rank : PicoCTF 2025
 - 🥉 Third place in Gujarat RoboFest 4.0 (Mars Rover)
 - 🥈 2nd Place: MANTRA's Hacker's Hideout Hackathon
 - 🏅 Top 7: MANTRA RWA Hackathon, Jaipur
 - 🏅 Top 100: Great AppSec Hackathon
-- 🥈 1850 rank : PicoCTF 2024
+- 🥈 1850 solo rank : PicoCTF 2024
 
 # 💻 Past Experiences : -
 - Smart Contract Developer at Deon Labs
