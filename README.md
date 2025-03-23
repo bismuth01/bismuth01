@@ -1,28 +1,5 @@
 # Siddhartha Swarnkar
-👨‍💻 Software Enthusiast | 🤖 Robotics Innovator | 🔒 Smart Contract Developer
-<p align="left">
-  <!-- Skills -->
-  <img src="https://img.shields.io/badge/Programming-Languages-blue?style=for-the-badge&logo=code&logoColor=white" alt="Programming Languages">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/ROS2-FCC624?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
-  <img src="https://img.shields.io/badge/Gazebo-FF5733?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  
-  <!-- Achievements -->
-  <img src="https://img.shields.io/badge/Proof%20of%20Concept-Gujarat%20RoboFest-blue?style=for-the-badge" alt="Gujarat RoboFest">
-  <img src="https://img.shields.io/badge/PicoCTF-1850-orange?style=for-the-badge" alt="PicoCTF">
-  
-  <!-- Activity -->
-  <img src="https://img.shields.io/github/stars/bismuth01?style=for-the-badge" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/followers/bismuth01?style=for-the-badge" alt="GitHub Followers">
-</p>
-
+👨‍💻 Software Enthusiast | 🤖 Robotics Innovator | 🔒 Smart Contract Developer | 🌐 Full stack developer | 📊 AI/ML Engineer
 
 ![O8AvbJtC3ZIr2ib_Hacker-Desk-4K_2_110637 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/8d496fff-aeb1-403b-b4ad-fdaee5e0517d)
 
@@ -47,38 +24,76 @@ A college student pursing B.Tech + M.Tech in Computer Science Engineering at LNM
   - 🛠 Built smart contracts on Solana, Move and Cosmos Ecosystem.
   - ⚡Built a working Account Abstraction Protocol (ERC-4337) on Cosmos Ecosystem
 
-# 📚 What I know ?
+# 🏗 Tech Stacks & Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismuth01&layout=compact)
 
-## ⚙️ Programming Languages
+## 🖥️ **Web Development**  
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapRCNlKq3E2ThLpDbb6dB6NIMSN5Q84ReAw&s" alt="c" width="50" height="50" style="background-color:white;"/> </a>
-  <a href="https://soliditylang.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSat-Ff24AuXFewhxCd0Q-76pk5NvuMeifahg&s" alt="c" width="40" height="50" style="background-color:white;"/> </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
 </p>
 
-## 🧰 Frameworks & Tools
+## 🧠 **Machine Learning & AI**
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.ros.org/en/foxy/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="50"/> 
-  </a>
-  <a href="https://github.com/ros-visualization/rviz" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="Rviz2" width="60" height="40"/> 
-  </a>
-  <a href="http://gazebosim.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="Gazebo" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
+
+## 📦 **Blockchain & Smart Contracts**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/CosmWasm-FFD700?style=for-the-badge&logo=cosmwasm&logoColor=black" alt="CosmWasm">
+  <img src="https://img.shields.io/badge/Eliza%20OS-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" alt="Eliza OS">
+  <img src="https://img.shields.io/badge/Coinbase%20AgentKit-0052CC?style=for-the-badge&logo=coinbase&logoColor=white" alt="Coinbase AgentKit">
+  <img src="https://img.shields.io/badge/EigenDA-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="EigenDA">
+</p>
+
+## 🤖 **Robotics & Simulation**  
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
+  <img src="https://img.shields.io/badge/Gazebo-9E9E9E?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo">
+  <img src="https://img.shields.io/badge/Rviz2-5C5C5C?style=for-the-badge&logo=ros&logoColor=white" alt="Rviz2">
+</p>
+
+## 🔐 **Cybersecurity & Hacking**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
+
+## 🚀 **DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+## 🔧 **Programming Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
 
 ## 🔨 Projects
+- **EigneDA connection and LangChain connection** for [SuriVerse](https://ethglobal.com/showcase/suriverse-nj5ru), an MMORPG platform with AI Agents that can interact and execute tasks with different popular protocols like Uniswap and AAVE. Randomness generated through AI Chats are uploaded to EigenDA.
+  - Easy upload and retrieval of blobs from EigenDA.
+  - LangChain integration with OpenAI API and configured actions to use crypto wallets and execute required actions.
 - [All backend smart contracts](https://github.com/projectman14/mantra-submission/tree/main/smart-contract) for [TokenLend](https://github.com/projectman14/mantra-submission) , a Collaterialized Debt Position (CDP) Protocol platform for **stable coin loans on RWA collateral**.
   - Multiple contracts working as actors on the blockchain and **communicating with each other** for smooth transactions
   - *Paymaster extension autopays loans in set time and amount **without needing user interaction***
